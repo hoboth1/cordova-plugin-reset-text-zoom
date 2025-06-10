@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-reset-text-zoom",
+  "version": "1.0.0",
+  "description": "Cordova plugin to reset WebView text zoom to 100%",
+  "cordova": {
+    "id": "cordova-plugin-reset-text-zoom",
+    "platforms": ["android"]
+  },
+  "keywords": [
+    "cordova",
+    "text",
+    "zoom",
+    "android",
+    "webview",
+    "font"
+  ],
+  "author": "Pure",
+  "license": "MIT"
+}
