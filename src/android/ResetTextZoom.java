@@ -2,6 +2,7 @@ package com.example.resettextzoom;
 
 import android.webkit.WebSettings;
 import org.apache.cordova.*;
+import org.apache.cordova.engine.SystemWebViewEngine;
 import org.json.JSONArray;
 
 public class ResetTextZoom extends CordovaPlugin {
